@@ -1,6 +1,6 @@
 # [FREE OCR API](https://ocr.space/)
 
-## Requirements:
+## Pre-requisites
 - Pycharm / Visual Studio Code
 - API Key
 
@@ -10,7 +10,8 @@
 2. Download the file and open it in your preferred IDE or code editor
 3. Install the requests library in Python to make HTTP requests by typing the following command in the terminal:
    - pip install requests
-4. Run the program
+4. Change the API key in the code to your API key
+5. Run the program
 
 ## Sample Image
 
