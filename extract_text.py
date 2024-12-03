@@ -43,3 +43,7 @@ if __name__ == "__main__":
                 print("No text found.")
         except json.JSONDecodeError as e:
             print("Error parsing JSON response:", e)
+
+# This project uses the free API from [OCRSpace] (https://ocr.space/)
+# Thank you to [OCRSpace] for providing this service.
+
