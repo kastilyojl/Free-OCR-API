@@ -1,7 +1,7 @@
 import requests #pip install requests
 import json
 
-def ocr_space_file(filename, overlay=False, api_key='K84853722988957', language='eng', OCREngine=2):
+def ocr_space_file(filename, overlay=False, api_key='your_api_key', language='eng', OCREngine=2):
     """OCR.space API request with local file."""
     payload = {
         'isOverlayRequired': overlay,
