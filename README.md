@@ -26,3 +26,10 @@
 This project uses the free OCR API from [OCRSpace](https://ocr.space/) to extract text from image. 
 
 A big thank you to OCRSpace for offering this powerful and free API.
+
+## OCRSpace FAQ
+
+Is it possible to use the free OCR service in a commercial project?
+Yes, according to OCRSpace, you can use the free OCR API in a commercial project, but it comes with no uptime guarantees.
+
+For more details, please visit the official OCRSpace FAQ page: [OCRSpace FAQ](https://ocr.space/faq).
