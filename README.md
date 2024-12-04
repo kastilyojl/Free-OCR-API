@@ -23,9 +23,9 @@
 
 ## Credits
 
-This project uses the free OCR API from [OCRSpace](https://ocr.space/) to extract text from image. 
+This project is powered by the the free OCR API from [OCRSpace](https://ocr.space/) to extract text from image. 
 
-A big thank you to OCRSpace for offering this powerful and free API.
+A special thanks to OCRSpace for providing this powerful and free API.
 
 ## OCRSpace FAQ
 
